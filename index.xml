@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Calvo</title><link>https://gabrielecalvo.github.io/</link><description>Recent content on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Uppoint</title><link>https://gabrielecalvo.github.io/p/uppoint/</link><pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/uppoint/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/uppoint/cover.png" alt="Featured image of post Uppoint" />&lt;p>In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called &lt;a class="link" href="http://uppoint.uk" target="_blank" rel="noopener"
+>&amp;ldquo;Uppoint&amp;rdquo;&lt;/a>.&lt;/p>
+&lt;p>The elevator pitch goes something like this:&lt;/p>
+&lt;blockquote>
+&lt;p>Instead of degrading into quarrels 😡 or leaving it to the loudest 📣individual, let the group see all the options 📜 and let each voter order them by preference ☝️. Our system will do the rest 😉
+Some Features:&lt;/p>
+&lt;ul>
+&lt;li>Ability to allow a set number of vetos ❌&lt;/li>
+&lt;li>Local 📍 or remote 📧 voting&lt;/li>
+&lt;li>Election status page 📊&lt;/li>
+&lt;li>5 voting methods ⚙️ to choose from&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>You can find it at &lt;a class="link" href="http://uppoint.uk" target="_blank" rel="noopener"
+>uppoint.uk&lt;/a>!&lt;/p></description></item><item><title>Pandas Tutorial (with exercises)</title><link>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</link><pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/cover.png" alt="Featured image of post Pandas Tutorial (with exercises)" />&lt;p>During my previous job, I was constantly trying to push for more adoption of python and its awesome libraries. As a Data Analyst, the main one was obviously &lt;a class="link" href="https://pandas.pydata.org/" target="_blank" rel="noopener"
+>pandas&lt;/a>!&lt;/p>
+&lt;p>In order to get people more familiar and confident using the internal tools and libraries I decided to prepare training material focused on pandas. The tutorial goes throught the main features of pandas and includes exercises and a final capstone project to test your skills.&lt;/p>
+&lt;p>You can find the material &lt;a class="link" href="https://github.com/gabrielecalvo/pandas_tutorial" target="_blank" rel="noopener"
+>here&lt;/a> under MIT Licence.&lt;/p></description></item><item><title>Python Course @ Language4Water</title><link>https://gabrielecalvo.github.io/p/python-course-language4water/</link><pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-course-language4water/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-course-language4water/cover.png" alt="Featured image of post Python Course @ Language4Water" />&lt;h1 id="language4water-python-course-for-beginners">Language4Water Python Course for Beginners&lt;/h1>
+&lt;p>&lt;a class="link" href="http://4water.org/glasgow/language/" target="_blank" rel="noopener"
+>L4W&lt;/a> is a charity that organises language courses whose profit go towards providing world&amp;rsquo;s poorest people with access to clean water, sanitation and hygiene services.&lt;/p>
+&lt;p>I heard about it a few years ago from a friend and have joined as a student and I decided to ask if they were interested in having a programming language as a course. They were very nice and open to it so here I am now teaching python to beginners.&lt;/p>
+&lt;p>I am constantly changing and refining the material &lt;a class="link" href="https://github.com/gabrielecalvo/Language4Water" target="_blank" rel="noopener"
+>here&lt;/a>. And the previous courses can be found in the &amp;ldquo;archive&amp;rdquo; folder.&lt;/p></description></item><item><title>Wind Data Analysis Toolbox</title><link>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</link><pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/WindAnalysis.jpg" alt="Featured image of post Wind Data Analysis Toolbox" />&lt;h1 id="wind-data-analysis-toolbox">Wind Data Analysis Toolbox&lt;/h1>
+&lt;p>I&amp;rsquo;ve been working on a couple of python libraries that simplify some aspects of wind analysis:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/wind_data_downloader" target="_blank" rel="noopener"
+>WindDataDownloader&lt;/a>: simplifies dowloading of MERRA2 and NCDC data.&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/windtools" target="_blank" rel="noopener"
+>windtools&lt;/a>: currently only handing wind rose generation.&lt;/li>
+&lt;/ul></description></item><item><title>Docker Data Analysis Image</title><link>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/docker-data-analysis-image/cover.png" alt="Featured image of post Docker Data Analysis Image" />&lt;p>I worked on a demo image to have jupyterlab working inside docker and accessible from the host machine.&lt;/p>
+&lt;p>The documentation and usage is detailed &lt;a class="link" href="https://github.com/gabrielecalvo/dataanalysis-jupyterlab" target="_blank" rel="noopener"
+>&lt;strong>&lt;em>here&lt;/em>&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>But I&amp;rsquo;d like to take a moment to summerise some pros of this solution:&lt;/p>
+&lt;ol>
+&lt;li>It allows a &lt;strong>standardised&lt;/strong> development environment.&lt;/li>
+&lt;li>It ensure any analysis performed in it is fully &lt;strong>repeatable&lt;/strong>.&lt;/li>
+&lt;li>It runs on pretty much &lt;strong>any machine&lt;/strong> that runs docker.&lt;/li>
+&lt;li>If you screw things up, &lt;strong>you can delete the container and start from a brand new one&lt;/strong>. To keep data you just need to mount a volume (as explained in the documentation).&lt;/li>
+&lt;li>You can &lt;strong>install libraries that only run on linux&lt;/strong>.&lt;/li>
+&lt;/ol></description></item></channel></rss>
