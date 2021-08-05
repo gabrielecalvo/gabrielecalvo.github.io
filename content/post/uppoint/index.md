@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called ["Uppoint"](http://uppoint.uk).
+In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called ["Uppoint"](http://35.231.251.20).
 
 The elevator pitch goes something like this:
 
@@ -24,4 +24,4 @@ The elevator pitch goes something like this:
 > - Election status page 📊
 > - 5 voting methods ⚙️ to choose from
 
-You can find it at [uppoint.uk](http://uppoint.uk)!
+You can find it at ~~[uppoint.uk](http://uppoint.uk)~~ [currently without domain, but accessible [here](http://35.231.251.20)]!
