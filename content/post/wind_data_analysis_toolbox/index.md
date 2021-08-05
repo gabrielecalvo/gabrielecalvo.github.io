@@ -3,7 +3,7 @@ author: "Gabe Calvo"
 title: "Wind Data Analysis Toolbox"
 date: "2019-06-17"
 description: "A few libraries to make wind data analysis easier and more productive."
-image: "WindAnalysis.jpg"
+image: "cover.jpg"
 # categories:
 #   - "Coding"
 tags:
