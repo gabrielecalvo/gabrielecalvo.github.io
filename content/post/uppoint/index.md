@@ -24,4 +24,4 @@ The elevator pitch goes something like this:
 > - Election status page 📊
 > - 5 voting methods ⚙️ to choose from
 
-You can find it at ~~[uppoint.uk](http://uppoint.uk)~~ [currently without domain, but accessible [here](http://35.231.251.20)]!
+You can find it at [uppoint.herokuapp.com](http://uppoint.herokuapp.com/)!
