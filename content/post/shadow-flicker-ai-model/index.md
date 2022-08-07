@@ -7,7 +7,7 @@ image: "cover.jpg"
 tags:
   - "wind energy"
   - "data science"
-draft: true
+draft: false
 ---
 
 # Shadow Flicker AI model
