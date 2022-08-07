@@ -38,7 +38,7 @@ rssFullContent = true
     default = "Licensed under CC BY-NC-SA 4.0"
 
   [params.comments]
-  enabled = true
+  enabled = false
   provider = "disqus"
 
     [params.comments.utterances]
