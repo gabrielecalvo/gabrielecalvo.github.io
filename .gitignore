@@ -1,6 +1,6 @@
-/public
-/resources
-.hugo_build.lock
+public
+resources
 .idea
-**/jsconfig.json
 .venv
+.hugo_build.lock
+**/jsconfig.json

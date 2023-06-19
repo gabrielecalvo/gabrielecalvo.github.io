@@ -12,12 +12,6 @@ def _tasks(c):
 
 
 @task
-def init(c):
-    """Ensure hugo theme git submodule is present"""
-    c.run("git submodule update --init --recursive")
-
-
-@task
 def new_post(c, name):
     """Create a new post specifying the name of it"""
     c.run(f"hugo new content/post/{name}/index.md")

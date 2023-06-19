@@ -1,0 +1,49 @@
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/gabrielecalvo"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/calvogabriele/?locale=en_UK"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "medium"
+name = "Medium"
+url = "https://medium.com/@gabedotpy"
+
+[social.params]
+icon = "brand-medium"
+
+[[social]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://fosstodon.org/@gabrielecalvo"
+
+[social.params]
+icon = "brand-mastodon"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/gabedotpy"
+
+[social.params]
+icon = "brand-twitter"
+
+
