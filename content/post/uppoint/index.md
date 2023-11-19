@@ -24,4 +24,4 @@ The elevator pitch goes something like this:
 > - Election status page 📊
 > - 5 voting methods ⚙️ to choose from
 
-You can find it at [uppoint.hopto.org](http://uppoint.hopto.org/)!
+You can find it at http://gabecloud.hopto.org:8100!
