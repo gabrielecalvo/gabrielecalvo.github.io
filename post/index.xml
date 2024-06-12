@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Gabe Calvo</title><link>https://gabrielecalvo.github.io/post/</link><description>Recent content in Posts on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>tENVplate</title><link>https://gabrielecalvo.github.io/p/tenvplate/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/tenvplate/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/tenvplate/cover.jpg" alt="Featured image of post tENVplate" />&lt;h1 id="tenvplate-a-simple-env-template-filler">tENVplate: a simple .env template filler&lt;/h1>
+&lt;p>When cloning a project I often found it annoying that, even if a &lt;code>.env.template&lt;/code> file is available, one still needs to ask for a &amp;ldquo;filled&amp;rdquo; version or chase down the values of the secrets on your own.&lt;/p>
+&lt;p>Wouldn&amp;rsquo;t it be easier to create the template with a reference to the vault service used to store the secrets?&lt;/p>
+&lt;p>Last weekend I managed to create a simple tool that tries to address that pain point for anyone currently using azure keyvault or k8s.&lt;/p>
+&lt;p>Hope people find it as useful as I do:
+&lt;a class="link" href="https://github.com/gabrielecalvo/tenvplate" target="_blank" rel="noopener"
+>https://github.com/gabrielecalvo/tenvplate&lt;/a>&lt;/p></description></item><item><title>Data Hackathons App</title><link>https://gabrielecalvo.github.io/p/data-hackathons-app/</link><pubDate>Sun, 01 Oct 2023 12:24:07 +0100</pubDate><guid>https://gabrielecalvo.github.io/p/data-hackathons-app/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/data-hackathons-app/cover.png" alt="Featured image of post Data Hackathons App" />&lt;h1 id="data-hackathons-webapp">Data Hackathons WebApp&lt;/h1>
+&lt;p>As a weekend project, I created a simple fast-api based app which can
+be self-hosted were users can:&lt;/p>
+&lt;ul>
+&lt;li>be automatically identified through the auth mechanism (currently azure ad on azure webapp supported)&lt;/li>
+&lt;li>browse all published competitions, with their tags&lt;/li>
+&lt;li>see a competition page with:
+&lt;ul>
+&lt;li>a description of the competition and the evaluation metric&lt;/li>
+&lt;li>links to the training data&lt;/li>
+&lt;li>links to the evaluation dataset and the submission template&lt;/li>
+&lt;li>submission form&lt;/li>
+&lt;li>leaderboard of previous submissions with score and submission count.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Python Glasgow Meetup - Dagster</title><link>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/cover.jpg" alt="Featured image of post Python Glasgow Meetup - Dagster" />&lt;p>After a long pause, the Python Glasgow Meetup has finally re-started organising events 😄&lt;/p>
+&lt;p>As the organisers were looking for talks, I agreed to give one on a library that I found very useful: Dagster.&lt;/p>
+&lt;p>I&amp;rsquo;ll let the slides and references below give more insight.&lt;/p>
+&lt;p>I look forward for the next event!&lt;/p>
+&lt;p>References:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://drive.google.com/file/d/17L2fz4JF8_xvFU_PbSi-WR82Na0OqAhb/view" target="_blank" rel="noopener"
+>Presentation Slides&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7067541922768146432/" target="_blank" rel="noopener"
+>Python Glasgow LinkedIn post&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/python-glasgow-meetup-dagster" target="_blank" rel="noopener"
+>GitHub repo with all the material&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Shadow Flicker AI model</title><link>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</link><pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/cover.jpg" alt="Featured image of post Shadow Flicker AI model" />&lt;h1 id="shadow-flicker-ai-model">Shadow Flicker AI model&lt;/h1>
+&lt;p>I had the chance to attend the last Wind Europe Annual Conference thanks to contributing to the
+&lt;em>Dynamic Flicker Optimisation System&lt;/em>.&lt;/p>
+&lt;p>It is a very interesting project using neural network to detect periods of clear sky and prevent shadow flicker.&lt;/p>
+&lt;p>The &lt;a class="link" href="https://windeurope.org/annual2022/conference/posters/PO217/" target="_blank" rel="noopener"
+>poster presentation&lt;/a> is available online on the
+Wind Europe website, so if you are interested in hearing me describe the system, that&amp;rsquo;s your chance. 😋&lt;/p></description></item><item><title>Random Picker</title><link>https://gabrielecalvo.github.io/p/random-picker/</link><pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/random-picker/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/random-picker/cover.png" alt="Featured image of post Random Picker" />&lt;h1 id="language4water-python-course-for-beginners">Language4Water Python Course for Beginners&lt;/h1>
+&lt;p>When working in a team, often we often rotate roles. For example to organise a monthly meeting or a weekly presentation.&lt;/p>
+&lt;p>Some teams use a more fully fledged, database-backed, wheel like &lt;a class="link" href="https://github.com/aws/aws-ops-wheel" target="_blank" rel="noopener"
+>this one&lt;/a>, but if you are looking for something simpler and without the need to spin up databases and servers, then this tool I created might be a good option: &lt;a class="link" href="https://github.com/gabrielecalvo/random-picker" target="_blank" rel="noopener"
+>https://github.com/gabrielecalvo/random-picker&lt;/a>&lt;/p></description></item><item><title>Streamlit on Azure</title><link>https://gabrielecalvo.github.io/p/streamlit-on-azure/</link><pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/streamlit-on-azure/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/streamlit-on-azure/cover.png" alt="Featured image of post Streamlit on Azure" />&lt;h1 id="guide-to-streamlit-on-azure">Guide to Streamlit on Azure&lt;/h1>
+&lt;p>Streamlit is a python library that allows for quick WebApp development for relatively simple applications.
+It provides common widgets and simple procedural logic.&lt;/p>
+&lt;p>In this guide, we will deploy a barebone app that I recommend using as your starting point if you want to
+deploy to Azure App Service.
+I have found the deployment to be a little tempremental so I hope this can help you.&lt;/p>
+&lt;p>I&amp;rsquo;ve taken information from &lt;a class="link" href="https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743" target="_blank" rel="noopener"
+>here&lt;/a>, though that alone did not work for me.
+Cloning and deploying &lt;a class="link" href="https://github.com/MarcSkovMadsen/awesome-streamlit/tree/master/.streamlit" target="_blank" rel="noopener"
+>this&lt;/a> worked, but I then simplified it and updated versions to get this guide.&lt;/p>
+&lt;h2 id="downloading-the-barebone-app">Downloading the barebone app&lt;/h2>
+&lt;p>I&amp;rsquo;ve prepared all the files you&amp;rsquo;ll need to get a start &lt;a class="link" href="http://raw.githubusercontent.com/gabrielecalvo/gabrielecalvo.github.io/main/assets/minimal_azure_streamlit.zip" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="creating-azure-resources">Creating Azure Resources&lt;/h2>
+&lt;p>The following resources have to be created:&lt;/p>
+&lt;ul>
+&lt;li>resource group&lt;/li>
+&lt;li>azure container registry&lt;/li>
+&lt;li>app service&lt;/li>
+&lt;/ul>
+&lt;p>You can create basic level of them using the &lt;a class="link" href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli" target="_blank" rel="noopener"
+>azure cli&lt;/a>
+as shown below. I will assume you are using bash. I usually prefer setting the variables once and using them in all future commands. The ones you will need are:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">LOCATION&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">RESOURCE_GROUP&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">CONTAINER_REGISTRY&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">IMAGE_NAME&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">WEBAPP_NAME&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">SERVICE_PLAN_NAME&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;xxx&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>To see all possible locations use &lt;code>az account list-locations&lt;/code>&lt;/p>
+&lt;p>Remember that &lt;em>WEBAPP_NAME&lt;/em> will go in the url (https://&lt;em>WEBAPP_NAME&lt;/em>.azurewebsites.net) so it needs to be unique across all azurewebsites.&lt;/p>
+&lt;p>The resource-creating commands are:&lt;/p>
+&lt;ul>
+&lt;li>resource group: &lt;code>az group create -l $LOCATION -n $RESOURCE_GROUP&lt;/code>&lt;/li>
+&lt;li>azure container registry: &lt;code>az acr create --name $CONTAINER_REGISTRY --resource-group $RESOURCE_GROUP --sku basic --admin-enabled true&lt;/code>&lt;/li>
+&lt;li>app service: &lt;code>az appservice plan create -g $RESOURCE_GROUP -n $SERVICE_PLAN_NAME -l $LOCATION --is-linux --sku B1&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>If you get authorisation errors, make sure you are logged in (&lt;code>az login&lt;/code> and &lt;code>az acr login -n $CONTAINER_REGISTRY&lt;/code>)&lt;/p>
+&lt;p>Once those resources are set-up, we move on to building the image (remotely) and creating the web app based on it&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">az acr build --registry &lt;span class="nv">$CONTAINER_REGISTRY&lt;/span> --resource-group &lt;span class="nv">$RESOURCE_GROUP&lt;/span> --image &lt;span class="nv">$IMAGE_NAME&lt;/span> .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">az webapp create -g &lt;span class="nv">$RESOURCE_GROUP&lt;/span> -p &lt;span class="nv">$SERVICE_PLAN_NAME&lt;/span> -n &lt;span class="nv">$WEBAPP_NAME&lt;/span> -i &lt;span class="nv">$CONTAINER_REGISTRY&lt;/span>.azurecr.io/&lt;span class="nv">$IMAGE_NAME&lt;/span>:latest
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="local-development">Local Development&lt;/h2>
+&lt;p>In order to speed up development it is usually better to build and test the image by using docker locally&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># locally build the test image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">docker build -t tst .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># test the image locally&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">docker run --rm -it -p 80:80 tst
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="pushing-the-image-to-the-container-registry">Pushing the image to the Container Registry&lt;/h2>
+&lt;p>Pushing the image will trigger an update of the WebApp on the next request.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># re-tag the image and push it to the repository&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">docker image tag tst &lt;span class="nv">$CONTAINER_REGISTRY&lt;/span>.azurecr.io/&lt;span class="nv">$IMAGE_NAME&lt;/span>:latest
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">docker push &lt;span class="nv">$CONTAINER_REGISTRY&lt;/span>.azurecr.io/&lt;span class="nv">$IMAGE_NAME&lt;/span>:latest
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>The update can be a bit fiddly, so I usually prefer restarting the app from the Azure Web UI to be sure and monitor the Log Stream.&lt;/p>
+&lt;h2 id="futher-considerations">Futher Considerations&lt;/h2>
+&lt;p>There are a couple of things to bear in mind:&lt;/p>
+&lt;ul>
+&lt;li>The way the webapp defaults, it will be available to the internet unless authorisation is specified.&lt;/li>
+&lt;li>The Dockerfile is in its simplest form. When opening the website to the internet there are security
+concerns to address, &lt;a class="link" href="https://www.youtube.com/watch?v=JE2PJbbpjsM" target="_blank" rel="noopener"
+>here&lt;/a> is a nice overview.&lt;/li>
+&lt;/ul></description></item><item><title>Uppoint</title><link>https://gabrielecalvo.github.io/p/uppoint/</link><pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/uppoint/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/uppoint/cover.png" alt="Featured image of post Uppoint" />&lt;p>In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called &lt;a class="link" href="http://35.231.251.20" target="_blank" rel="noopener"
+>&amp;ldquo;Uppoint&amp;rdquo;&lt;/a>.&lt;/p>
+&lt;p>The elevator pitch goes something like this:&lt;/p>
+&lt;blockquote>
+&lt;p>Instead of degrading into quarrels 😡 or leaving it to the loudest 📣individual, let the group see all the options 📜 and let each voter order them by preference ☝️. Our system will do the rest 😉
+Some Features:&lt;/p>
+&lt;ul>
+&lt;li>Ability to allow a set number of vetos ❌&lt;/li>
+&lt;li>Local 📍 or remote 📧 voting&lt;/li>
+&lt;li>Election status page 📊&lt;/li>
+&lt;li>5 voting methods ⚙️ to choose from&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>You can find it at &lt;a class="link" href="http://gabecloud.hopto.org:8100" target="_blank" rel="noopener"
+>http://gabecloud.hopto.org:8100&lt;/a>!&lt;/p></description></item><item><title>Pandas Tutorial (with exercises)</title><link>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</link><pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/cover.png" alt="Featured image of post Pandas Tutorial (with exercises)" />&lt;p>During my previous job, I was constantly trying to push for more adoption of python and its awesome libraries. As a Data Analyst, the main one was obviously &lt;a class="link" href="https://pandas.pydata.org/" target="_blank" rel="noopener"
+>pandas&lt;/a>!&lt;/p>
+&lt;p>In order to get people more familiar and confident using the internal tools and libraries I decided to prepare training material focused on pandas. The tutorial goes throught the main features of pandas and includes exercises and a final capstone project to test your skills.&lt;/p>
+&lt;p>You can find the material &lt;a class="link" href="https://github.com/gabrielecalvo/pandas_tutorial" target="_blank" rel="noopener"
+>here&lt;/a> under MIT Licence.&lt;/p></description></item><item><title>Python Course @ Language4Water</title><link>https://gabrielecalvo.github.io/p/python-course-@-language4water/</link><pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-course-@-language4water/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-course-@-language4water/cover.png" alt="Featured image of post Python Course @ Language4Water" />&lt;h1 id="language4water-python-course-for-beginners">Language4Water Python Course for Beginners&lt;/h1>
+&lt;p>&lt;a class="link" href="http://4water.org/glasgow/language/" target="_blank" rel="noopener"
+>L4W&lt;/a> is a charity that organises language courses whose profit go towards providing world&amp;rsquo;s poorest people with access to clean water, sanitation and hygiene services.&lt;/p>
+&lt;p>I heard about it a few years ago from a friend and have joined as a student and I decided to ask if they were interested in having a programming language as a course. They were very nice and open to it so here I am now teaching python to beginners.&lt;/p>
+&lt;p>I am constantly changing and refining the material &lt;a class="link" href="https://github.com/gabrielecalvo/Language4Water" target="_blank" rel="noopener"
+>here&lt;/a>. And the previous courses can be found in the &amp;ldquo;archive&amp;rdquo; folder.&lt;/p></description></item><item><title>Wind Data Analysis Toolbox</title><link>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</link><pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/cover.jpg" alt="Featured image of post Wind Data Analysis Toolbox" />&lt;h1 id="wind-data-analysis-toolbox">Wind Data Analysis Toolbox&lt;/h1>
+&lt;p>I&amp;rsquo;ve been working on a couple of python libraries that simplify some aspects of wind analysis:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/wind_data_downloader" target="_blank" rel="noopener"
+>WindDataDownloader&lt;/a>: simplifies dowloading of MERRA2 and NCDC data.&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/windtools" target="_blank" rel="noopener"
+>windtools&lt;/a>: currently only handing wind rose generation.&lt;/li>
+&lt;/ul></description></item><item><title>Docker Data Analysis Image</title><link>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/docker-data-analysis-image/cover.png" alt="Featured image of post Docker Data Analysis Image" />&lt;p>I worked on a demo image to have jupyterlab working inside docker and accessible from the host machine.&lt;/p>
+&lt;p>The documentation and usage is detailed &lt;a class="link" href="https://github.com/gabrielecalvo/dataanalysis-jupyterlab" target="_blank" rel="noopener"
+>&lt;strong>&lt;em>here&lt;/em>&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>But I&amp;rsquo;d like to take a moment to summerise some pros of this solution:&lt;/p>
+&lt;ol>
+&lt;li>It allows a &lt;strong>standardised&lt;/strong> development environment.&lt;/li>
+&lt;li>It ensure any analysis performed in it is fully &lt;strong>repeatable&lt;/strong>.&lt;/li>
+&lt;li>It runs on pretty much &lt;strong>any machine&lt;/strong> that runs docker.&lt;/li>
+&lt;li>If you screw things up, &lt;strong>you can delete the container and start from a brand new one&lt;/strong>. To keep data you just need to mount a volume (as explained in the documentation).&lt;/li>
+&lt;li>You can &lt;strong>install libraries that only run on linux&lt;/strong>.&lt;/li>
+&lt;/ol></description></item></channel></rss>

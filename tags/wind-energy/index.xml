@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wind Energy on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/wind-energy/</link><description>Recent content in Wind Energy on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/wind-energy/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadow Flicker AI model</title><link>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</link><pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/cover.jpg" alt="Featured image of post Shadow Flicker AI model" />&lt;h1 id="shadow-flicker-ai-model">Shadow Flicker AI model&lt;/h1>
+&lt;p>I had the chance to attend the last Wind Europe Annual Conference thanks to contributing to the
+&lt;em>Dynamic Flicker Optimisation System&lt;/em>.&lt;/p>
+&lt;p>It is a very interesting project using neural network to detect periods of clear sky and prevent shadow flicker.&lt;/p>
+&lt;p>The &lt;a class="link" href="https://windeurope.org/annual2022/conference/posters/PO217/" target="_blank" rel="noopener"
+>poster presentation&lt;/a> is available online on the
+Wind Europe website, so if you are interested in hearing me describe the system, that&amp;rsquo;s your chance. 😋&lt;/p></description></item><item><title>Wind Data Analysis Toolbox</title><link>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</link><pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/cover.jpg" alt="Featured image of post Wind Data Analysis Toolbox" />&lt;h1 id="wind-data-analysis-toolbox">Wind Data Analysis Toolbox&lt;/h1>
+&lt;p>I&amp;rsquo;ve been working on a couple of python libraries that simplify some aspects of wind analysis:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/wind_data_downloader" target="_blank" rel="noopener"
+>WindDataDownloader&lt;/a>: simplifies dowloading of MERRA2 and NCDC data.&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/windtools" target="_blank" rel="noopener"
+>windtools&lt;/a>: currently only handing wind rose generation.&lt;/li>
+&lt;/ul></description></item></channel></rss>

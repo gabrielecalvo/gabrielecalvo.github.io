@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/python/</link><description>Recent content in Python on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>tENVplate</title><link>https://gabrielecalvo.github.io/p/tenvplate/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/tenvplate/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/tenvplate/cover.jpg" alt="Featured image of post tENVplate" />&lt;h1 id="tenvplate-a-simple-env-template-filler">tENVplate: a simple .env template filler&lt;/h1>
+&lt;p>When cloning a project I often found it annoying that, even if a &lt;code>.env.template&lt;/code> file is available, one still needs to ask for a &amp;ldquo;filled&amp;rdquo; version or chase down the values of the secrets on your own.&lt;/p>
+&lt;p>Wouldn&amp;rsquo;t it be easier to create the template with a reference to the vault service used to store the secrets?&lt;/p>
+&lt;p>Last weekend I managed to create a simple tool that tries to address that pain point for anyone currently using azure keyvault or k8s.&lt;/p>
+&lt;p>Hope people find it as useful as I do:
+&lt;a class="link" href="https://github.com/gabrielecalvo/tenvplate" target="_blank" rel="noopener"
+>https://github.com/gabrielecalvo/tenvplate&lt;/a>&lt;/p></description></item><item><title>Python Glasgow Meetup - Dagster</title><link>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/cover.jpg" alt="Featured image of post Python Glasgow Meetup - Dagster" />&lt;p>After a long pause, the Python Glasgow Meetup has finally re-started organising events 😄&lt;/p>
+&lt;p>As the organisers were looking for talks, I agreed to give one on a library that I found very useful: Dagster.&lt;/p>
+&lt;p>I&amp;rsquo;ll let the slides and references below give more insight.&lt;/p>
+&lt;p>I look forward for the next event!&lt;/p>
+&lt;p>References:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://drive.google.com/file/d/17L2fz4JF8_xvFU_PbSi-WR82Na0OqAhb/view" target="_blank" rel="noopener"
+>Presentation Slides&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7067541922768146432/" target="_blank" rel="noopener"
+>Python Glasgow LinkedIn post&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/python-glasgow-meetup-dagster" target="_blank" rel="noopener"
+>GitHub repo with all the material&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Uppoint</title><link>https://gabrielecalvo.github.io/p/uppoint/</link><pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/uppoint/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/uppoint/cover.png" alt="Featured image of post Uppoint" />&lt;p>In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called &lt;a class="link" href="http://35.231.251.20" target="_blank" rel="noopener"
+>&amp;ldquo;Uppoint&amp;rdquo;&lt;/a>.&lt;/p>
+&lt;p>The elevator pitch goes something like this:&lt;/p>
+&lt;blockquote>
+&lt;p>Instead of degrading into quarrels 😡 or leaving it to the loudest 📣individual, let the group see all the options 📜 and let each voter order them by preference ☝️. Our system will do the rest 😉
+Some Features:&lt;/p>
+&lt;ul>
+&lt;li>Ability to allow a set number of vetos ❌&lt;/li>
+&lt;li>Local 📍 or remote 📧 voting&lt;/li>
+&lt;li>Election status page 📊&lt;/li>
+&lt;li>5 voting methods ⚙️ to choose from&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>You can find it at &lt;a class="link" href="http://gabecloud.hopto.org:8100" target="_blank" rel="noopener"
+>http://gabecloud.hopto.org:8100&lt;/a>!&lt;/p></description></item><item><title>Pandas Tutorial (with exercises)</title><link>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</link><pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/cover.png" alt="Featured image of post Pandas Tutorial (with exercises)" />&lt;p>During my previous job, I was constantly trying to push for more adoption of python and its awesome libraries. As a Data Analyst, the main one was obviously &lt;a class="link" href="https://pandas.pydata.org/" target="_blank" rel="noopener"
+>pandas&lt;/a>!&lt;/p>
+&lt;p>In order to get people more familiar and confident using the internal tools and libraries I decided to prepare training material focused on pandas. The tutorial goes throught the main features of pandas and includes exercises and a final capstone project to test your skills.&lt;/p>
+&lt;p>You can find the material &lt;a class="link" href="https://github.com/gabrielecalvo/pandas_tutorial" target="_blank" rel="noopener"
+>here&lt;/a> under MIT Licence.&lt;/p></description></item><item><title>Python Course @ Language4Water</title><link>https://gabrielecalvo.github.io/p/python-course-@-language4water/</link><pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-course-@-language4water/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-course-@-language4water/cover.png" alt="Featured image of post Python Course @ Language4Water" />&lt;h1 id="language4water-python-course-for-beginners">Language4Water Python Course for Beginners&lt;/h1>
+&lt;p>&lt;a class="link" href="http://4water.org/glasgow/language/" target="_blank" rel="noopener"
+>L4W&lt;/a> is a charity that organises language courses whose profit go towards providing world&amp;rsquo;s poorest people with access to clean water, sanitation and hygiene services.&lt;/p>
+&lt;p>I heard about it a few years ago from a friend and have joined as a student and I decided to ask if they were interested in having a programming language as a course. They were very nice and open to it so here I am now teaching python to beginners.&lt;/p>
+&lt;p>I am constantly changing and refining the material &lt;a class="link" href="https://github.com/gabrielecalvo/Language4Water" target="_blank" rel="noopener"
+>here&lt;/a>. And the previous courses can be found in the &amp;ldquo;archive&amp;rdquo; folder.&lt;/p></description></item></channel></rss>

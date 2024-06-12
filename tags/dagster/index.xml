@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dagster on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/dagster/</link><description>Recent content in Dagster on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/dagster/index.xml" rel="self" type="application/rss+xml"/><item><title>Python Glasgow Meetup - Dagster</title><link>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/python-glasgow-meetup-dagster/cover.jpg" alt="Featured image of post Python Glasgow Meetup - Dagster" />&lt;p>After a long pause, the Python Glasgow Meetup has finally re-started organising events 😄&lt;/p>
+&lt;p>As the organisers were looking for talks, I agreed to give one on a library that I found very useful: Dagster.&lt;/p>
+&lt;p>I&amp;rsquo;ll let the slides and references below give more insight.&lt;/p>
+&lt;p>I look forward for the next event!&lt;/p>
+&lt;p>References:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://drive.google.com/file/d/17L2fz4JF8_xvFU_PbSi-WR82Na0OqAhb/view" target="_blank" rel="noopener"
+>Presentation Slides&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7067541922768146432/" target="_blank" rel="noopener"
+>Python Glasgow LinkedIn post&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/python-glasgow-meetup-dagster" target="_blank" rel="noopener"
+>GitHub repo with all the material&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

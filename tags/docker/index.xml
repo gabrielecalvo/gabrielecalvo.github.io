@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/docker/</link><description>Recent content in Docker on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker Data Analysis Image</title><link>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/docker-data-analysis-image/cover.png" alt="Featured image of post Docker Data Analysis Image" />&lt;p>I worked on a demo image to have jupyterlab working inside docker and accessible from the host machine.&lt;/p>
+&lt;p>The documentation and usage is detailed &lt;a class="link" href="https://github.com/gabrielecalvo/dataanalysis-jupyterlab" target="_blank" rel="noopener"
+>&lt;strong>&lt;em>here&lt;/em>&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>But I&amp;rsquo;d like to take a moment to summerise some pros of this solution:&lt;/p>
+&lt;ol>
+&lt;li>It allows a &lt;strong>standardised&lt;/strong> development environment.&lt;/li>
+&lt;li>It ensure any analysis performed in it is fully &lt;strong>repeatable&lt;/strong>.&lt;/li>
+&lt;li>It runs on pretty much &lt;strong>any machine&lt;/strong> that runs docker.&lt;/li>
+&lt;li>If you screw things up, &lt;strong>you can delete the container and start from a brand new one&lt;/strong>. To keep data you just need to mount a volume (as explained in the documentation).&lt;/li>
+&lt;li>You can &lt;strong>install libraries that only run on linux&lt;/strong>.&lt;/li>
+&lt;/ol></description></item></channel></rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>React-Js on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/react-js/</link><description>Recent content in React-Js on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/react-js/index.xml" rel="self" type="application/rss+xml"/><item><title>Uppoint</title><link>https://gabrielecalvo.github.io/p/uppoint/</link><pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/uppoint/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/uppoint/cover.png" alt="Featured image of post Uppoint" />&lt;p>In the summer of 2020 I have been spending some free time developing a collaborative decision-making webapp called &lt;a class="link" href="http://35.231.251.20" target="_blank" rel="noopener"
+>&amp;ldquo;Uppoint&amp;rdquo;&lt;/a>.&lt;/p>
+&lt;p>The elevator pitch goes something like this:&lt;/p>
+&lt;blockquote>
+&lt;p>Instead of degrading into quarrels 😡 or leaving it to the loudest 📣individual, let the group see all the options 📜 and let each voter order them by preference ☝️. Our system will do the rest 😉
+Some Features:&lt;/p>
+&lt;ul>
+&lt;li>Ability to allow a set number of vetos ❌&lt;/li>
+&lt;li>Local 📍 or remote 📧 voting&lt;/li>
+&lt;li>Election status page 📊&lt;/li>
+&lt;li>5 voting methods ⚙️ to choose from&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>You can find it at &lt;a class="link" href="http://gabecloud.hopto.org:8100" target="_blank" rel="noopener"
+>http://gabecloud.hopto.org:8100&lt;/a>!&lt;/p></description></item></channel></rss>

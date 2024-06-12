@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/data-science/</link><description>Recent content in Data Science on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadow Flicker AI model</title><link>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</link><pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/shadow-flicker-ai-model/cover.jpg" alt="Featured image of post Shadow Flicker AI model" />&lt;h1 id="shadow-flicker-ai-model">Shadow Flicker AI model&lt;/h1>
+&lt;p>I had the chance to attend the last Wind Europe Annual Conference thanks to contributing to the
+&lt;em>Dynamic Flicker Optimisation System&lt;/em>.&lt;/p>
+&lt;p>It is a very interesting project using neural network to detect periods of clear sky and prevent shadow flicker.&lt;/p>
+&lt;p>The &lt;a class="link" href="https://windeurope.org/annual2022/conference/posters/PO217/" target="_blank" rel="noopener"
+>poster presentation&lt;/a> is available online on the
+Wind Europe website, so if you are interested in hearing me describe the system, that&amp;rsquo;s your chance. 😋&lt;/p></description></item><item><title>Pandas Tutorial (with exercises)</title><link>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</link><pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/pandas-tutorial-with-exercises/cover.png" alt="Featured image of post Pandas Tutorial (with exercises)" />&lt;p>During my previous job, I was constantly trying to push for more adoption of python and its awesome libraries. As a Data Analyst, the main one was obviously &lt;a class="link" href="https://pandas.pydata.org/" target="_blank" rel="noopener"
+>pandas&lt;/a>!&lt;/p>
+&lt;p>In order to get people more familiar and confident using the internal tools and libraries I decided to prepare training material focused on pandas. The tutorial goes throught the main features of pandas and includes exercises and a final capstone project to test your skills.&lt;/p>
+&lt;p>You can find the material &lt;a class="link" href="https://github.com/gabrielecalvo/pandas_tutorial" target="_blank" rel="noopener"
+>here&lt;/a> under MIT Licence.&lt;/p></description></item><item><title>Docker Data Analysis Image</title><link>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/docker-data-analysis-image/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/docker-data-analysis-image/cover.png" alt="Featured image of post Docker Data Analysis Image" />&lt;p>I worked on a demo image to have jupyterlab working inside docker and accessible from the host machine.&lt;/p>
+&lt;p>The documentation and usage is detailed &lt;a class="link" href="https://github.com/gabrielecalvo/dataanalysis-jupyterlab" target="_blank" rel="noopener"
+>&lt;strong>&lt;em>here&lt;/em>&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>But I&amp;rsquo;d like to take a moment to summerise some pros of this solution:&lt;/p>
+&lt;ol>
+&lt;li>It allows a &lt;strong>standardised&lt;/strong> development environment.&lt;/li>
+&lt;li>It ensure any analysis performed in it is fully &lt;strong>repeatable&lt;/strong>.&lt;/li>
+&lt;li>It runs on pretty much &lt;strong>any machine&lt;/strong> that runs docker.&lt;/li>
+&lt;li>If you screw things up, &lt;strong>you can delete the container and start from a brand new one&lt;/strong>. To keep data you just need to mount a volume (as explained in the documentation).&lt;/li>
+&lt;li>You can &lt;strong>install libraries that only run on linux&lt;/strong>.&lt;/li>
+&lt;/ol></description></item></channel></rss>

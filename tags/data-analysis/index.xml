@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analysis on Gabe Calvo</title><link>https://gabrielecalvo.github.io/tags/data-analysis/</link><description>Recent content in Data Analysis on Gabe Calvo</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielecalvo.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Wind Data Analysis Toolbox</title><link>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</link><pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate><guid>https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/</guid><description>&lt;img src="https://gabrielecalvo.github.io/p/wind-data-analysis-toolbox/cover.jpg" alt="Featured image of post Wind Data Analysis Toolbox" />&lt;h1 id="wind-data-analysis-toolbox">Wind Data Analysis Toolbox&lt;/h1>
+&lt;p>I&amp;rsquo;ve been working on a couple of python libraries that simplify some aspects of wind analysis:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/wind_data_downloader" target="_blank" rel="noopener"
+>WindDataDownloader&lt;/a>: simplifies dowloading of MERRA2 and NCDC data.&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/gabrielecalvo/windtools" target="_blank" rel="noopener"
+>windtools&lt;/a>: currently only handing wind rose generation.&lt;/li>
+&lt;/ul></description></item></channel></rss>
