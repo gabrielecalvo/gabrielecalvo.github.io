@@ -2,8 +2,8 @@
 author: "Gabe Calvo"
 title: "tENVplate"
 date: "2024-05-20"
-description: "I volunteered as python teacher at the local Language4Water charity. Here is the opensource material."
-image: "cover.png"
+description: "I built a tool to simplify .env template filling"
+image: "cover.jpg"
 # categories:
 #   - "Coding"
 tags:
