@@ -1,8 +1,8 @@
 ---
 title: "UV Demo"
-description: The python packaging solution we've been waiting for
+description: lightning-talk demo of uv
 date: "2025-02-06"
-image: cover.jpg
+image: cover.jpeg
 draft: false
 tags:
   - "python"

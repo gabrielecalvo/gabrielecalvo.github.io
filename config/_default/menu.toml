@@ -46,4 +46,10 @@ url = "https://twitter.com/gabedotpy"
 [social.params]
 icon = "brand-twitter"
 
+[[social]]
+identifier = "bluesky"
+name = "BlueSky"
+url = "https://bsky.app/profile/gabedotpy.bsky.social"
 
+[social.params]
+icon = "brand-bluesky"
