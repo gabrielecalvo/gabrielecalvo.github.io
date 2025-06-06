@@ -1,0 +1,20 @@
+---
+title: "Git Branching Strategies"
+description: "A comparison of the most common git branching strategies"
+date: 2025-06-07T00:12:03+01:00
+image: "cover.jpg"
+---
+
+I've been trying to better the pros and cons of git branching strategies.
+
+After LLMing and YouTubing around, this is what I collated together:
+
+| Strategy  ♟️                  | Description  📃                                                                                                                                                                   | Ideal For  💡                                                                       | Pros 👍                                                                                  | Cons 👎                                                                                                            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Git Flow**                | Structured model with multiple long-lived branches: `main`, `develop`, `feature`, `release`, and `hotfix`. Suitable for projects with scheduled releases and multiple versions. | Large teams, complex projects, multiple release versions                          | Clear separation of concerns; supports parallel development; organized release process | Overhead in managing multiple branches; slower release cycles; steep learning curve for newcomers                |
+| **GitHub Flow**             | Simplified workflow using `main` and short-lived `feature` branches. Emphasizes continuous integration and deployment.                                                          | Small teams, web applications, projects requiring frequent deployments            | Fast-paced development; easy to understand; encourages code reviews and CI/CD          | Not ideal for managing multiple versions; potential instability if not properly tested before merging            |
+| **GitLab Flow**             | Combines Git Flow and GitHub Flow, integrating issue tracking and environment-based deployments (e.g., staging, production).                                                    | Teams needing structured workflows with environment-specific deployments          | Flexible; supports multiple environments; integrates well with CI/CD pipelines         | Can become complex with multiple environments; requires disciplined branch management                            |
+| **Trunk-Based Development** | Developers work on a single `main` branch, committing small, frequent changes. Feature flags are often used to manage unfinished features.                                      | Agile teams, projects aiming for continuous integration and delivery              | Simplifies merge process; reduces integration issues; accelerates release cycles       | Requires robust testing and discipline; may be challenging for teams not accustomed to frequent integrations     |
+| **Release Flow**            | Focuses on creating a `release` branch from `main` for final testing and stabilization before deployment. Allows continued development on `main` during the release process.    | Enterprise projects with strict release schedules and quality assurance processes | Enables parallel development and release preparation; facilitates hotfixes and patches | Additional overhead in managing release branches; potential for divergence between `main` and `release` branches |
+
+Photo by [Xinyi Wen](https://unsplash.com/@ewxy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/looking-up-at-the-branches-of-a-tree-Wy72IZTIfvk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
